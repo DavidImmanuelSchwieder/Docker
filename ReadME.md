@@ -2,11 +2,11 @@
 ## Warum werden Docker verwendet ? (Vorteile / Nachteile)
 | Vorteile                                            | Nachteile                                                               |
 |-----------------------------------------------------|-------------------------------------------------------------------------|
-| - Einfaches Verpacken und Ausführen von Anwendungen | - Komplizierte Einrichtung und Verwaltung                              |
-| - Schnellere Bereitstellung von Software            | - Sicherheitsprobleme durch falsche Konfiguration                      |
-| - Unabhängigkeit von der Umgebung                   | - Zusätzlicher Ressourcenverbrauch auf dem System                      |
-| - Einfache Updates und Rollbacks                    | - Mögliche Leistungsprobleme, vor allem auf älteren Computern          |
-| - Effiziente Ressourcennutzung durch Container      | - Lernkurve für Anfänger                                                |
+| - schnelles Verpacken und Ausführen von Anwendungen | - unübersichtlich Verwaltung/Einrichtung                                |
+| - schnelle Software bereitstellung                  | - Falsche Konfigurationen sorgen für Sicherheitsprobleme                |
+| - Unabhängigkeit von der Umgebung                   | - unnötiger Ressourcenverbrauch des Systems                             |
+| - Schnelle Rollbacks und Updates                    | - mögliche Leistungsprobleme, besonders bei älteren Computer            |
+| - Effizente Ressourcennutzung durch Container      | - Lernkurve für Anfänger                                                |
 
 ## Was sind Dockerfiles und für was werden sie verwendet?
 
