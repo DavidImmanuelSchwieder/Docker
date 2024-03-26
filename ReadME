@@ -3,9 +3,10 @@
 
 ## Was sind Dockerfiles und für was werden sie verwendet?
 
-|                     Vorteile                         |                      Nachteile                        |
-|--------------------------------------------------------------------------------------------------------------|
-|-Einfachesverpacken und ausführen von Anwendungen     |-Komplizierte Einrichtung und Verwaltung               |
+| Vorteile                                              | Nachteile                                      |
+|-------------------------------------------------------|------------------------------------------------|
+| - Einfaches Verpakcen und Ausühren von Anwendungen    | - Komplizierte Einrichtung und Verwaltung      |
+
 ### Was sind Docker Files?
 <p1>
 
