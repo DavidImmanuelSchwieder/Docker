@@ -2,7 +2,6 @@
 ## Warum werden Docker verwendet ? (Vorteile / Nachteile)
 
 ## Was sind Dockerfiles und für was werden sie verwendet?
-
 | Vorteile                                            | Nachteile                                                               |
 |-----------------------------------------------------|-------------------------------------------------------------------------|
 | - Einfaches Verpacken und Ausführen von Anwendungen | - Komplizierte Einrichtung und Verwaltung                              |
